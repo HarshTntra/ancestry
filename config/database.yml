@@ -1,0 +1,18 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: ancestor_backend
+  host: localhost
+  pool: 5
+  username: rails
+  password: rails
+  port: 5432
+staging:
+  adapter: postgresql
+  encoding: unicode
+  database: ancestor_backend
+  host: localhost
+  pool: 5
+  username: rails
+  password: rails
+  port: 5432
